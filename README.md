@@ -57,6 +57,7 @@ Place and connect the following components:
   - FWHM width of optical spectra  
 
 ---
+<img width="984" height="1415" alt="image" src="https://github.com/user-attachments/assets/c654bb14-d3ca-4916-9b82-6341abbd93b2" />
 
 <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/13e0edfb-ebb7-4459-a92a-bef1aab2dec2" />
 
